@@ -69,22 +69,33 @@ digital-phenotyping-data/
 
 
 ### Mental Health Monitoring
+* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
+* [Depression dataset](https://zenodo.org/records/1219550) - The dataset contains sensor data collected from patients suffering from depression. It has motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls. [[paper](
 
 
 ### Sleep Analysis
+* [Sleep Quality identification](https://figshare.com/ndownloader/files/14578382) - Data collected to identify sleep quality [[paper](https://www.nature.com/articles/s42003-019-0605-1)][[data](https://figshare.com/ndownloader/files/14578382)]
+* 
 
 
 ### Mobility/Routine Modelling
+* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
+* 
 
 
 ### Addiction/Digital Behaviour
-
+* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
+* 
 
 ### Social Interaction
+* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
+* 
 
 
 
 ### Health Outcome Prediction
+* [Human Activity Recognition](https://) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.website.com)]
+* 
 
 
 
