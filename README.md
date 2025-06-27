@@ -64,6 +64,7 @@ digital-phenotyping-data/
 
 ### Phenotyping
 * [Human Activity Recognition](https://) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.website.com)]
+* [Sleep Quality identification](https://figshare.com/ndownloader/files/14578382) - Data collected to identify sleep quality [[paper](https://www.nature.com/articles/s42003-019-0605-1)][[data](https://figshare.com/ndownloader/files/14578382)]
 * 
 
 
