@@ -50,7 +50,7 @@ digital-phenotyping-data/
 
 ## Datasets
 ### Activity Detection
-* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
+* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)][[code](www.code.com)]
 * [Human Activity Recognition using Smartphones](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones) - A freely available data recorded as a set of ADL in a sensor rich environment using 72 environmental and body sensors. [[data](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)][[paper](https://www.esann.org/sites/default/files/proceedings/legacy/es2013-84.pdf)]
 * [Human Pedestrian Activity Recognition](http://hub.hasc.jp/) - The authors collected indoor pedestrian sensing data of 107 people with a balance of gender and age. [[data](http://hub.hasc.jp/)] [[paper](https://dl.acm.org/doi/abs/10.1145/2968219.2968277)]
 * [Daily life activities](https://www.mad.tf.fau.de/research/activitynet) - This is a hierarchical, multi-sensor based classification. [[data](https://www.mad.tf.fau.de/research/activitynet)][[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075196)]
