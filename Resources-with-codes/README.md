@@ -36,6 +36,8 @@ digital-phenotyping-data/
 * [Human Activity Recognition using CNN in Keras](https://github.com/Shahnawax/HAR-CNN-Keras) - A 3D accelerometer sensor data is used to train a simple Convolutional Neural Network (CNN) based Human Activity Recognition (HAR) system. [[data[(http://www.cis.fordham.edu/wisdm/dataset.php)][[code](https://github.com/Shahnawax/HAR-CNN-Keras)].
 * [Human Activity Recognition from smartphone signals](https://github.com/servomac/Human-Activity-Recognition) - Human activities are predicted using a LSTM network trained on sensor signals collected from a smartphone. [[data](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)][[code](https://github.com/servomac/Human-Activity-Recognition)].
 * [Skeleton-Based Activity Recognition](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_50) - Spatial Temporal Transformer Network for Skeleton-Based Activity Recognition. [[data](https://drive.google.com/drive/folders/1SPQ6FmFsjGg3f59uCWfdUWI-5HJM_YhZ)][[code](https://github.com/Chiaraplizz/ST-TR)].
+* [Human Activity Recognition](https://dl.acm.org/doi/10.1145/2499621) - The use of MATLAB toolbox for Human Activity Recognition. [[data](https://github.com/andreas-bulling/ActRecTut/tree/master/Data)][[code](https://github.com/andreas-bulling/ActRecTut)].
+* [Human Activity Recognition using Signal Processing](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones.github.io) - [[data](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones.github.io/tree/master/Data)][[code](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones.github.io)].
 * 
 * 
 * [Human Activity Recognition using Smartphones](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones) - A freely available data recorded as a set of ADL in a sensor rich environment using 72 environmental and body sensors. [[data](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)][[paper](https://www.esann.org/sites/default/files/proceedings/legacy/es2013-84.pdf)]
@@ -50,14 +52,13 @@ digital-phenotyping-data/
 * 
 
 ### Phenotyping
-* [Human Activity Recognition](https://) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.website.com)]
-* [Sleep Quality identification](https://figshare.com/ndownloader/files/14578382) - Data collected to identify sleep quality [[paper](https://www.nature.com/articles/s42003-019-0605-1)][[data](https://figshare.com/ndownloader/files/14578382)]
+* [Smartphone-based Digital Phenotyping]() - Digital Phenotyping [[code](https://github.com/bhagyas731/Smartphone-based-Digital-Phenotyping/blob/main/Smartphone-based%20Digital%20Phenotyping.ipynb)][[data](https://github.com/bhagyas731/Smartphone-based-Digital-Phenotyping)].
 * 
 
 
 ### Mental Health Monitoring
-* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
-* [Depression dataset](https://zenodo.org/records/1219550) - The dataset contains sensor data collected from patients suffering from depression. It has motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls. [[paper](
+* [Detection of Autism](https://www.nature.com/articles/s41591-023-02574-3) - The dataset contains data collected and deposited in the National Institute of Mental Health National Data Archive (NDA). [[data](https://nda.nih.gov/)][[code](https://github.com/samperochon/Perochon_et_al_Nature_Medicine_2023)].
+* 
 
 
 ### Sleep Analysis
