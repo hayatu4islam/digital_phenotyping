@@ -38,6 +38,7 @@ digital-phenotyping-data/
 * [Skeleton-Based Activity Recognition](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_50) - Spatial Temporal Transformer Network for Skeleton-Based Activity Recognition. [[data](https://drive.google.com/drive/folders/1SPQ6FmFsjGg3f59uCWfdUWI-5HJM_YhZ)][[code](https://github.com/Chiaraplizz/ST-TR)].
 * [Human Activity Recognition](https://dl.acm.org/doi/10.1145/2499621) - The use of MATLAB toolbox for Human Activity Recognition. [[data](https://github.com/andreas-bulling/ActRecTut/tree/master/Data)][[code](https://github.com/andreas-bulling/ActRecTut)].
 * [Human Activity Recognition using Signal Processing](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones.github.io) - [[data](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones.github.io/tree/master/Data)][[code](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones.github.io)].
+* [Awesome Human Activity Recognition](https://github.com/haoranD/Awesome-Human-Activity-Recognition) - This is an up-to-date and curated list of awesome IMU-based human activity recognition papers, methods and resources.
 * 
 * 
 * [Human Activity Recognition using Smartphones](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones) - A freely available data recorded as a set of ADL in a sensor rich environment using 72 environmental and body sensors. [[data](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)][[paper](https://www.esann.org/sites/default/files/proceedings/legacy/es2013-84.pdf)]
@@ -53,6 +54,7 @@ digital-phenotyping-data/
 
 ### Phenotyping
 * [Smartphone-based Digital Phenotyping]() - Digital Phenotyping [[code](https://github.com/bhagyas731/Smartphone-based-Digital-Phenotyping/blob/main/Smartphone-based%20Digital%20Phenotyping.ipynb)][[data](https://github.com/bhagyas731/Smartphone-based-Digital-Phenotyping)].
+* [Digital Phenotyping]() - Digital Phenotyping using accelerometer, communication_log, gps imputation 2D and gps imputation sphere. [[code](https://github.com/GreysonL/DigitalPhenotyping/tree/master)]][[No data]()]
 * 
 
 
