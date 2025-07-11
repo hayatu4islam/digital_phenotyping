@@ -68,22 +68,10 @@ digital-phenotyping-data/
 * 
 
 
-### Mobility/Routine Modelling
-* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
-* 
-
-
-### Addiction/Digital Behaviour
-* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
-* 
-
-### Social Interaction
-* [Human Activity Recognition](https://www.utwente.nl/en/eemcs/ps/) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.utwente.nl/en/eemcs/ps/)][[paper](https://www.mdpi.com/1424-8220/16/4/426)]
-* 
 
 
 
-### Health Outcome Prediction
-* [Human Activity Recognition](https://) - The Complex human activity recognition using smartphone and wrist-worn motion sensors.[[data](https://www.website.com)]
-* 
+
+
+
 
