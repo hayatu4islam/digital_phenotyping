@@ -1,6 +1,9 @@
 
 # 📱 Digital Phenotyping Data Collection
 
+Funded by EU Project on ACMod
+(Bournemouth University Lead)
+
 This repository hosts tools, documentation, and sample datasets for the collection of **digital phenotyping data**. Digital phenotyping involves the continuous, real-time measurement of human behavior and health using data from personal digital devices, such as smartphones and wearables.
 
 ---
