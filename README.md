@@ -1,15 +1,14 @@
 
 # 📱 Digital Phenotyping Data Collection
 
-This repository is developed within the framework of the Affective Computing Models: from Facial Expression to Mind-Reading ("ACMod") Funded by EU.
-(Bournemouth University Lead)
+This open source platform is supported by EU MSCA Grant **Affective Computing Models: from Facial Expression to Mind-Reading ("ACMod:101130271")** led by Bournemouth University.
 
 This repository hosts tools, documentation, and sample datasets for the collection of **digital phenotyping data**. Digital phenotyping involves the continuous, real-time measurement of human behavior and health using data from personal digital devices, such as smartphones and wearables.
 
 ## Funding
 This work is supported by UK Research and Innovation (UKRI) under Grant No. 101130271
 
-Project page: [https://gtr.ukri.org/projects](https://gtr.ukri.org/projects?ref=EP%2FZ000025%2F1)
+Project page: [ACMod Project](https://sites.google.com/view/acmod-main/MSCA_ACMod?authuser=0)
 
 Lead Research Organisation: Bournemouth University
 
