@@ -26,7 +26,7 @@ Common data types:
 - Sleep and activity logs
 
 ### Tutorials
-* [Artificial intelligence-powered delta-NIHSS-based model for predicting recurrence, disability and mortality after acute ischaemic strokes (DISCO): a modelling study](#link) [Paper]()[Notebook](#link)
+* [Artificial intelligence-powered delta-NIHSS-based model for predicting recurrence, disability and mortality after acute ischaemic strokes (DISCO): a modelling study] [Paper](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00618-2/fulltext) [Notebook](https://github.com/hayatu4islam/AI_Tutorials/blob/main/DISCO.md)
 ---
 
 ## 📂 Repository Structure
