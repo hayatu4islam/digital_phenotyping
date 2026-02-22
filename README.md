@@ -29,6 +29,8 @@ Common data types:
 * [Artificial intelligence-powered delta-NIHSS-based model for predicting recurrence, disability and mortality after acute ischaemic strokes (DISCO): a modelling study] [Paper](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00618-2/fulltext) [Notebook](https://github.com/hayatu4islam/AI_Tutorials/blob/main/DISCO.md)
 * [Advanced Human Activity Detection using Machine & Deep Learning Methods][Paper](#) [Notebook](https://colab.research.google.com/drive/1DtuT9zbnmrp_SPr2oU6qK416JEn6YZAY#scrollTo=DYMHb_v-v1Te&uniqifier=2)
 * [Privacy and utility preserving sensor-data transformations] [Paper](https://www.sciencedirect.com/science/article/pii/S1574119220300201) [Notebook]() [Dataset](https://github.com/mmalekzadeh/motion-sense/tree/master/data)
+* [24PanicPrediction][Notebook](https://colab.research.google.com/drive/15qoO5Mv0BhktyzkQTGF4EmudQ49OEdcP#scrollTo=9grGqwNPwDjv) [Dataset](https://github.com/DigitalHealthcareLab/24PanicPrediction/tree/master/data)
+* 
 ---
 
 ## 📂 Repository Structure
