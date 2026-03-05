@@ -6,13 +6,11 @@ This open source platform is supported by EU MSCA Grant **Affective Computing Mo
 This repository hosts tools, documentation, and sample datasets for the collection of **digital phenotyping data**. Digital phenotyping involves the continuous, real-time measurement of human behavior and health using data from personal digital devices, such as smartphones and wearables.
 
 ## Funding
-This work is supported by UK Research and Innovation (UKRI) under Grant No. 101130271
+This work is supported by UK Research and Innovation (UKRI) under Grant No. 101130271 and EU Horizon MSCA Grant [ACMod Project](https://sites.google.com/view/acmod-main/MSCA_ACMod?authuser=0)
 
-Project page: [ACMod Project](https://sites.google.com/view/acmod-main/MSCA_ACMod?authuser=0)
+This website is led by Bournemouth University
 
-Lead Research Organisation: Bournemouth University
-
-Department Name: Faculty of Media and Communication
+School: Computing and Engineering
 
 ## 🧠 What is Digital Phenotyping?
 
