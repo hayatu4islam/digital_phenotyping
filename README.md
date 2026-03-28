@@ -28,7 +28,7 @@ Common data types:
 * [Advanced Human Activity Detection using Machine & Deep Learning Methods][Paper](#) [Notebook](https://colab.research.google.com/drive/1DtuT9zbnmrp_SPr2oU6qK416JEn6YZAY#scrollTo=DYMHb_v-v1Te&uniqifier=2)
 * [Privacy and utility preserving sensor-data transformations] [Paper](https://www.sciencedirect.com/science/article/pii/S1574119220300201) [Notebook](https://colab.research.google.com/drive/1RYEfv70edFYlKdN9Olw7alXQ78Jrh6vZ#scrollTo=KUPdziofgHw1) [Dataset](https://github.com/mmalekzadeh/motion-sense/tree/master/data)
 * [24PanicPrediction][Notebook](https://colab.research.google.com/drive/15qoO5Mv0BhktyzkQTGF4EmudQ49OEdcP#scrollTo=9grGqwNPwDjv) [Dataset](https://github.com/DigitalHealthcareLab/24PanicPrediction/tree/master/data)
-* [Explainable Artificial Intelligence]() [Dataset]() Notebook(in progress)
+* [Explainable Artificial Intelligence] [Dataset](https://drive.google.com/file/d/10HOYqmWz0h6Z__QwXisBBkMDAMttY--3) [Notebook](https://github.com/hayatu4islam/digital_phenotyping/blob/main/Tutorial_Human_Activity_Recognition_LSTM.ipynb)
 ---
 
 ## 📂 Repository Structure
