@@ -29,8 +29,8 @@ Common data types:
 * [Privacy and utility preserving sensor-data transformations] [Paper](https://www.sciencedirect.com/science/article/pii/S1574119220300201) [Notebook](https://colab.research.google.com/drive/1RYEfv70edFYlKdN9Olw7alXQ78Jrh6vZ#scrollTo=KUPdziofgHw1) [Dataset](https://github.com/mmalekzadeh/motion-sense/tree/master/data)
 * [24PanicPrediction][Notebook](https://colab.research.google.com/drive/15qoO5Mv0BhktyzkQTGF4EmudQ49OEdcP#scrollTo=9grGqwNPwDjv) [Dataset](https://github.com/DigitalHealthcareLab/24PanicPrediction/tree/master/data)
 * [Explainable Artificial Intelligence] [Dataset](https://drive.google.com/file/d/10HOYqmWz0h6Z__QwXisBBkMDAMttY--3) [Notebook](https://github.com/hayatu4islam/digital_phenotyping/blob/main/Tutorial_Human_Activity_Recognition_LSTM.ipynb)
-* [Activity Detection using Motion Sense Dataset]()
-* [Using Mobile Dataset]()
+* [Activity Detection using Motion Sense Dataset(Tutorial in Progress)]()
+* [Using Mobile Dataset(Tutorial in Progress)]()
 ---
 
 ## 📂 Repository Structure
