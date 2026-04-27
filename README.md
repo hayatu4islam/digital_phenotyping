@@ -31,8 +31,9 @@ Common data types:
 * [Explainable Artificial Intelligence] [Dataset](https://drive.google.com/file/d/10HOYqmWz0h6Z__QwXisBBkMDAMttY--3) [Notebook](https://github.com/hayatu4islam/digital_phenotyping/blob/main/Tutorial_Human_Activity_Recognition_LSTM.ipynb)
 * [Activity Detection using Motion Sense Dataset(Tutorial in Progress)]()[Paper](https://arxiv.org/pdf/1911.05996.pdf) [Notebook]()
 * [Using Mobile Dataset(Tutorial in Progress)]()
----[Human activity recognition using magnetic induction-based motion signals and deep RNN][Paper](https://www.nature.com/articles/s41467-020-15086-2) [Notebook](https://colab.research.google.com/drive/18Si2ViBCKYKqtgTxu-N8jxJ1CGJqtX9j)
-
+* [Human activity recognition using magnetic induction-based motion signals and deep RNN][Paper](https://www.nature.com/articles/s41467-020-15086-2) [Notebook](https://colab.research.google.com/drive/18Si2ViBCKYKqtgTxu-N8jxJ1CGJqtX9j)
+* 
+---
 ## 📂 Repository Structure
 
 ```
