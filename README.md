@@ -33,6 +33,7 @@ Common data types:
 * [Using Mobile Dataset(Tutorial in Progress)]()
 * [Human activity recognition using magnetic induction-based motion signals and deep RNN]()[Paper](https://www.nature.com/articles/s41467-020-15086-2) <><><><> [Notebook](https://colab.research.google.com/drive/18Si2ViBCKYKqtgTxu-N8jxJ1CGJqtX9j)
 * [HARTH: A Human Activity Recognition Dataset for Machine Learning][Paper](https://www.mdpi.com/1424-8220/21/23/7853) <><><><> [Notebook](https://colab.research.google.com/drive/1H15kqSZmcCCsgiwlzMq-OQyO50toW_Ht) [Data](https://archive-beta.ics.uci.edu/dataset/779/harth)
+* [Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition][Paper](https://www.mdpi.com/1424-8220/16/1/115) <><><><> [Data]() [Notebook](https://colab.research.google.com/drive/1ikTXfSqQbsx7WyL4wKfLgIyiPKMcr5VN)
 * 
 ---
 ## 📂 Repository Structure
